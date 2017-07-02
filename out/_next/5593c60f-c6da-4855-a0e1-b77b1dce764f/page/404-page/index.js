@@ -1,6 +1,0 @@
-
-          window.__NEXT_REGISTER_PAGE('/404-page', function() {
-            var comp = module.exports=webpackJsonp([7],{187:function(e,t,a){e.exports=a(188)},188:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var o=a(71),l=n(o),s=a(0),i=n(s);t.default=function(){return i.default.createElement("div",{"data-jsx":4157271331},i.default.createElement("h1",{"data-jsx":4157271331},"404"),i.default.createElement("span",{className:"separator","data-jsx":4157271331}),i.default.createElement("h2",{"data-jsx":4157271331},"Not Found"),i.default.createElement("p",{"data-jsx":4157271331},"powered by Bas"),i.default.createElement(l.default,{styleId:4157271331,css:'h1[data-jsx="4157271331"]{font-size:50px;display:inline-block;position:relative;top:-1em}p[data-jsx="4157271331"]{margin-top:-2em}h2[data-jsx="4157271331"]{color:gray;font-family:sans-serif;font-weight:normal;font-size:50px;display:inline-block;position:relative;top:-1em}div[data-jsx="4157271331"]{-webkit-text-align:center;text-align:center;position:absolute;top:20%;width:100%}.separator[data-jsx="4157271331"]{border:1px solid black;display:inline-block;height:150px;margin:0 20px}'}))}},71:function(e,t,a){e.exports=a(72)}},[187]);
-            return { page: comp.default }
-          })
-        
